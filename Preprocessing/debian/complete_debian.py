@@ -10,31 +10,15 @@ import pandas as pd
 import random
 
 
+path = 'preprocessed/'
+
 no = 8
 file = '00002-0000000{}-comma.soi'.format(no)
-
-# Replace colons with commas
-"""
-with open(file, 'r') as f:
-    lines = f.readlines()
-    
-    with open('00002-00000008-comma.soi', 'a') as g:
-        for line in lines:
-            line = line.replace(':', ',')
-            g.write(line)
-            
-"""        
-df = pd.read_csv(file, names = [i for i in range(15)])
-num_alts = 8
-num_voters = 143
-#num_alts = df.iloc[0].iloc[0]
-#num_voters = df.iloc[num_alts + 1].iloc[0]
-
-
+ 
+num_alts = 8   
 df = pd.read_csv(file, skiprows=(num_alts + 12), names = [i for i in range(15)])
 
 data = pd.DataFrame()
-
 
 cnt = 0
 for i in range(len(df)):
@@ -44,9 +28,6 @@ for i in range(len(df)):
 data = data.iloc[:, 0: num_alts]
 
 data_new = data.copy()
-
-
-
 
 def next(row, pos):        
     search = list(data_new.iloc[row, :pos])
@@ -95,4 +76,4 @@ for row in range(len(data_new)):
         else:
             alts = alts - {data_new.iloc[row, col]}
             
-data_new.to_csv('debian_complete_{}.csv'.format(no))
+data_new.to_csv('{}_complete.csv'.format(file[0:-10]))
