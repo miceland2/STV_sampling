@@ -1,0 +1,19 @@
+Alaska_11082022_SenateDistrictE_complete.csv, 0.99
+Alaska_11082022_SenateDistrictC_complete.csv, 1.0
+Alaska_11082022_SenateDistrictD_complete.csv, 1.0
+Alaska_11082022_SenateDistrictQ_complete.csv, 1.0
+Alaska_11082022_SenateDistrictN_complete.csv, 1.0
+Alaska_11082022_SenateDistrictI_complete.csv, 1.0
+Alaska_11082022_SenateDistrictP_complete.csv, 1.0
+Alaska_11082022_SenateDistrictH_complete.csv, 1.0
+Alaska_11082022_SenateDistrictO_complete.csv, 1.0
+Alaska_11082022_SenateDistrictR_complete.csv, 1.0
+Alaska_11082022_SenateDistrictM_complete.csv, 1.0
+Alaska_11082022_SenateDistrictJ_complete.csv, 1.0
+Alaska_11082022_SenateDistrictS_complete.csv, 1.0
+Alaska_11082022_SenateDistrictK_complete.csv, 1.0
+Alaska_11082022_SenateDistrictL_complete.csv, 1.0
+Alaska_11082022_SenateDistrictF_complete.csv, 1.0
+Alaska_11082022_SenateDistrictA_complete.csv, 1.0
+Alaska_11082022_SenateDistrictG_complete.csv, 1.0
+0.9994444444444446

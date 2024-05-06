@@ -1,0 +1,9 @@
+debian_complete_8.csv, 0.318
+debian_complete_6.csv, 0.971
+debian_complete_7.csv, 0.752
+debian_complete_5.csv, 0.042
+debian_complete_4.csv, 0.072
+debian_complete_1.csv, 0.092
+debian_complete_3.csv, 0.32
+debian_complete_2.csv, 0.482
+0.38112499999999994

@@ -1,0 +1,13 @@
+SanLeandro_11022010_CountyCouncilDistrict5_complete.csv, 1.0
+SanLeandro_11062012_CountyCouncilDistrict6_complete.csv, 1.0
+SanLeandro_11082016_CountyCouncilDistrict2_complete.csv, 1.0
+SanLeandro_11062018_CountyCouncilDistrict1_complete.csv, 1.0
+SanLeandro_11042014_CountyCouncilDistrict1_complete.csv, 1.0
+SanLeandro_11042014_CountyCouncilDistrict3_complete.csv, 1.0
+SanLeandro_11062018_CountyCouncilDistrict3_complete.csv, 0.887
+SanLeandro_11042014_CountyCouncilDistrict5_complete.csv, 1.0
+SanLeandro_11062018_CountyCouncilDistrict5_complete.csv, 1.0
+SanLeandro_11022010_CountyCouncilDistrict1_complete.csv, 1.0
+SanLeandro_11062012_CountyCouncilDistrict2_complete.csv, 0.683
+SanLeandro_11062012_CountyCouncilDistrict4_complete.csv, 1.0
+0.9641666666666667

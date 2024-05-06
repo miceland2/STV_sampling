@@ -1,0 +1,13 @@
+apa_complete_5.csv, 0.963
+apa_complete_4.csv, 0.029
+apa_complete_6.csv, 0.982
+apa_complete_7.csv, 0.995
+apa_complete_3.csv, 0.989
+apa_complete_2.csv, 0.276
+apa_complete_1.csv, 0.995
+apa_complete_12.csv, 0.641
+apa_complete_11.csv, 0.243
+apa_complete_10.csv, 0.331
+apa_complete_9.csv, 0.992
+apa_complete_8.csv, 0.83
+0.6888333333333333

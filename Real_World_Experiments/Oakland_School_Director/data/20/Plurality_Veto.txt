@@ -1,0 +1,3 @@
+Oakland_11032020_SchoolDirectorDist7OaklandRCV_complete.csv, 0.0
+Oakland_11032020_SchoolDirectorDist3OaklandRCV_complete.csv, 1.0
+Oakland_11062018_SchoolDirectorDistrict6_complete.csv, 1.0

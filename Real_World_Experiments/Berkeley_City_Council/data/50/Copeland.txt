@@ -1,0 +1,25 @@
+Berkeley_11062018_CityCouncilDistrict8_complete.csv, 1.0
+Berkeley_11032020_MemberCityCouncilDist6BerkeleyRCV_complete.csv, 1.0
+Berkeley_11022010_CityCouncilDistrict7_complete.csv, 1.0
+Berkeley_11062012_CityCouncilDistrict6_complete.csv, 1.0
+Berkeley_11032020_MemberCityCouncilDist2BerkeleyRCV_complete.csv, 1.0
+Berkeley_11022010_CityCouncilDistrict1_complete.csv, 1.0
+Berkeley_11062018_CityCouncilDistrict4_complete.csv, 1.0
+Berkeley_11042014_CityCouncilDistrict8_complete.csv, 0.517
+Berkeley_11082016_CityCouncilDistrict6_complete.csv, 1.0
+Berkeley_11032020_MemberCityCouncilDist5BerkeleyRCV_complete.csv, 1.0
+Berkeley_11022010_CityCouncilDistrict8_complete.csv, 1.0
+Berkeley_11032020_MemberCityCouncilDist3BerkeleyRCV_complete.csv, 1.0
+Berkeley_11082016_CityCouncilDistrict2_complete.csv, 1.0
+Berkeley_11082016_CityCouncilDistrict5_complete.csv, 1.0
+Berkeley_11062018_CityCouncilDistrict7_complete.csv, 1.0
+Berkeley_11082016_CityCouncilDistrict3_complete.csv, 1.0
+Berkeley_11062018_CityCouncilDistrict1_complete.csv, 1.0
+Berkeley_11042014_CityCouncilDistrict7_complete.csv, 1.0
+Berkeley_11022010_CityCouncilDistrict4_complete.csv, 1.0
+Berkeley_11062012_CityCouncilDistrict5_complete.csv, 1.0
+Berkeley_11062012_CityCouncilDistrict2_complete.csv, 1.0
+Berkeley_11042014_CityCouncilDistrict1_complete.csv, 1.0
+Berkeley_11062012_CityCouncilDistrict3_complete.csv, 1.0
+Berkeley_03072017_CityCouncilDistrict4_complete.csv, 1.0
+0.8548749999999999

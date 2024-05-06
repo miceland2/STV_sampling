@@ -1,0 +1,19 @@
+Minneapolis_11072017_PRBoardDistrict5_complete.csv, 1.0
+Minneapolis_11072017_PRBoardDistrict2_complete.csv, 1.0
+Minneapolis_11052013_PRBoardDistrict6_complete.csv, 1.0
+Minneapolis_11072017_PRBoardDistrict3_complete.csv, 1.0
+Minneapolis_11072017_PRBoardDistrict4_complete.csv, 1.0
+Minneapolis_11022021_ParkBoardDistrict4_complete.csv, 1.0
+Minneapolis_11022021_ParkBoardDistrict3_complete.csv, 1.0
+Minneapolis_11062009_PRBoardDistrict5_complete.csv, 1.0
+Minneapolis_11062009_PRBoardDistrict2_complete.csv, 1.0
+Minneapolis_11062009_PRBoardDistrict3_complete.csv, 1.0
+Minneapolis_11022021_ParkBoardDistrict2_complete.csv, 1.0
+Minneapolis_11022021_ParkBoardDistrict5_complete.csv, 1.0
+Minneapolis_11062009_PRBoardDistrict6_complete.csv, 1.0
+Minneapolis_11062009_PRBoardDistrict1_complete.csv, 1.0
+Minneapolis_11022021_ParkBoardDistrict6_complete.csv, 0.0
+Minneapolis_11072017_PRBoardDistrict6_complete.csv, 1.0
+Minneapolis_11072017_PRBoardDistrict1_complete.csv, 1.0
+Minneapolis_11052013_PRBoardDistrict2_complete.csv, 1.0
+0.9444444444444444

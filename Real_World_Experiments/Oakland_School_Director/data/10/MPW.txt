@@ -1,0 +1,19 @@
+Oakland_11032020_SchoolDirectorDist7OaklandRCV_complete.csv, 0.046
+Oakland_11032020_SchoolDirectorDist3OaklandRCV_complete.csv, 1.0
+Oakland_11062018_SchoolDirectorDistrict6_complete.csv, 1.0
+Oakland_11042014_SchoolDirectorDistrict4_complete.csv, 0.331
+Oakland_11022010_SchoolDirectorDistrict4_complete.csv, 1.0
+Oakland_11032020_SchoolDirectorDist5OaklandRCV_complete.csv, 0.998
+Oakland_11082016_SchoolDirectorDistrict7_complete.csv, 0.325
+Oakland_11062012_SchoolDirectorDistrict1_complete.csv, 1.0
+Oakland_11032020_SchoolDirectorDist1OaklandRCV_complete.csv, 0.992
+Oakland_11082016_SchoolDirectorDistrict1_complete.csv, 0.808
+Oakland_11042014_SchoolDirectorDistrict2_complete.csv, 1.0
+Oakland_11062012_SchoolDirectorDistrict7_complete.csv, 0.048
+Oakland_11082016_SchoolDirectorDistrict3_complete.csv, 0.966
+Oakland_11062012_SchoolDirectorDistrict5_complete.csv, 0.043
+Oakland_11042014_SchoolDirectorDistrict6_complete.csv, 1.0
+Oakland_11082016_SchoolDirectorDistrict5_complete.csv, 0.036
+Oakland_11062012_SchoolDirectorDistrict3_complete.csv, 0.04
+Oakland_11062018_SchoolDirectorDistrict4_complete.csv, 1.0
+0.05777777777777778

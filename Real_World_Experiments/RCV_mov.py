@@ -87,7 +87,7 @@ def RCV_mov(num_alts, data):
     
     return None, LB, UB
 
-path = 'AWS_Transfer/NYC_Democratic_Council_District/complete/'
+path = 'NYC_Democratic_Council/complete/'
 print(path)
 profiles = os.listdir(path)
 if ('.DS_Store' in profiles):

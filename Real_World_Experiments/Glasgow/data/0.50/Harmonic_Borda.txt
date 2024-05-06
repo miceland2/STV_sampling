@@ -1,0 +1,22 @@
+Glasgow_complete_9.csv, 0.054
+Glasgow_complete_8.csv, 1.0
+Glasgow_complete_18.csv, 0.855
+Glasgow_complete_19.csv, 0.869
+Glasgow_complete_21.csv, 0.991
+Glasgow_complete_20.csv, 0.294
+Glasgow_complete_12.csv, 0.316
+Glasgow_complete_13.csv, 0.718
+Glasgow_complete_11.csv, 0.932
+Glasgow_complete_10.csv, 0.568
+Glasgow_complete_14.csv, 0.079
+Glasgow_complete_15.csv, 0.421
+Glasgow_complete_17.csv, 0.639
+Glasgow_complete_16.csv, 0.989
+Glasgow_complete_3.csv, 1.0
+Glasgow_complete_2.csv, 0.33
+Glasgow_complete_1.csv, 0.382
+Glasgow_complete_5.csv, 0.123
+Glasgow_complete_4.csv, 0.249
+Glasgow_complete_6.csv, 0.981
+Glasgow_complete_7.csv, 0.73
+0.5961904761904762

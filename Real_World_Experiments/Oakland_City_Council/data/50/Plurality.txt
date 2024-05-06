@@ -1,0 +1,24 @@
+Oakland_11062012_CityCouncilDistrict5_complete.csv, 1.0
+Oakland_11022010_CityCouncilDistrict4_complete.csv, 1.0
+Oakland_11082022_CityCouncilmemberDistrict6_complete.csv, 1.0
+Oakland_11062012_CityCouncilDistrict3_complete.csv, 0.0
+Oakland_11022010_CityCouncilDistrict2_complete.csv, 1.0
+Oakland_11042014_CityCouncilDistrict6_complete.csv, 1.0
+Oakland_11082016_CityCouncilDistrict5_complete.csv, 1.0
+Oakland_11062018_CityCouncilDistrict6_complete.csv, 1.0
+Oakland_11082016_CityCouncilDistrict3_complete.csv, 1.0
+Oakland_11082016_CityCouncilDistrict1_complete.csv, 1.0
+Oakland_11062018_CityCouncilDistrict4_complete.csv, 1.0
+Oakland_11032020_MemberCityCouncilDist7OaklandRCV_complete.csv, 1.0
+Oakland_11082016_CityCouncilDistrict7_complete.csv, 1.0
+Oakland_11062018_CityCouncilDistrict2_complete.csv, 1.0
+Oakland_11032020_MemberCityCouncilDist3OaklandRCV_complete.csv, 1.0
+Oakland_11062012_CityCouncilDistrict1_complete.csv, 1.0
+Oakland_11042014_CityCouncilDistrict4_complete.csv, 1.0
+Oakland_11032020_MemberCityCouncilDist5OaklandRCV_complete.csv, 1.0
+Oakland_11062012_CityCouncilDistrict7_complete.csv, 1.0
+Oakland_11022010_CityCouncilDistrict6_complete.csv, 1.0
+Oakland_11042014_CityCouncilDistrict2_complete.csv, 1.0
+Oakland_11032020_MemberCityCouncilDist1OaklandRCV_complete.csv, 1.0
+Oakland_11082022_CityCouncilmemberDistrict4_complete.csv, 1.0
+0.5652173913043478

@@ -12,7 +12,7 @@ from matplotlib import style
 import os
 
 
-path = 'AWS_Transfer/NYC_Democratic_Council_District/'
+path = 'NYC_Democratic_Council/'
 data_path = path + 'data/'
 plots_path = path + 'plots/'
 distances_path = path + 'distances/'

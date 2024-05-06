@@ -19,8 +19,10 @@ path = 'debian/'
 profile_path = path + 'complete/'
 distances_path = path + 'distances/'
 data_path = path + 'data/'
+if (not os.path.exists(data_path)):
+    os.mkdir(data_path)
 
-pValues = [0.5, 3, 7, 10]
+pValues = [0.5, 1, 3, 5, 7, 10]
 
 samples = 1000
 
