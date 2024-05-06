@@ -27,7 +27,7 @@ if ('.DS_Store' in profiles):
 
 num_elections = len(profiles)
 
-percents = [0.5, 1, 3, 5, 7, 10]
+percents = [5, 10, 30, 50, 70, 100]
 
 index = ['R', 'P', 'Bo', 'H', 'C', 'M', 'Bu', 'PV', 'V', 'SUM', 'MPW']
 
@@ -53,67 +53,67 @@ for election_no in range(num_elections):
     
     accs_rcv = []
     for i in range (len(percents)):
-        r = pd.read_csv(data_path + '{}0/RCV.txt'.format(percents[i]), names=[0, 1]).iloc[election_no][1] * 100
+        r = pd.read_csv(data_path + '{}/RCV.txt'.format(percents[i]), names=[0, 1]).iloc[election_no][1] * 100
         accs_rcv.append(r)
         avg_accs['R'][i] += r
     
     accs_plurality = []
     for i in range (len(percents)):
-        p = pd.read_csv(data_path + '{}0/Plurality.txt'.format(percents[i]), names=[0, 1]).iloc[election_no][1] * 100
+        p = pd.read_csv(data_path + '{}/Plurality.txt'.format(percents[i]), names=[0, 1]).iloc[election_no][1] * 100
         accs_plurality.append(p)
         avg_accs['P'][i] += p
         
     accs_borda = []
     for i in range (len(percents)):
-        bo = pd.read_csv(data_path + '{}0/Borda.txt'.format(percents[i]), names=[0, 1]).iloc[election_no][1] * 100
+        bo = pd.read_csv(data_path + '{}/Borda.txt'.format(percents[i]), names=[0, 1]).iloc[election_no][1] * 100
         accs_borda.append(bo)
         avg_accs['Bo'][i] += bo
         
     accs_harmonic = []
     for i in range (len(percents)):
-        h = pd.read_csv(data_path + '{}0/Harmonic_Borda.txt'.format(percents[i]), names=[0, 1]).iloc[election_no][1] * 100
+        h = pd.read_csv(data_path + '{}/Harmonic_Borda.txt'.format(percents[i]), names=[0, 1]).iloc[election_no][1] * 100
         accs_harmonic.append(h)
         avg_accs['H'][i] += h
         
     accs_copeland = []
     for i in range (len(percents)):
-        c = pd.read_csv(data_path + '{}0/Copeland.txt'.format(percents[i]), names=[0, 1]).iloc[election_no][1] * 100
+        c = pd.read_csv(data_path + '{}/Copeland.txt'.format(percents[i]), names=[0, 1]).iloc[election_no][1] * 100
         accs_copeland.append(c)
         avg_accs['C'][i] += c
         
     accs_minimax = []
     for i in range (len(percents)):
-        m = pd.read_csv(data_path + '{}0/Minimax.txt'.format(percents[i]), names=[0, 1]).iloc[election_no][1] * 100
+        m = pd.read_csv(data_path + '{}/Minimax.txt'.format(percents[i]), names=[0, 1]).iloc[election_no][1] * 100
         accs_minimax.append(m)
         avg_accs['M'][i] += m
         
     accs_bucklin = []
     for i in range (len(percents)):
-        bu = pd.read_csv(data_path + '{}0/Bucklin.txt'.format(percents[i]), names=[0, 1]).iloc[election_no][1] * 100
+        bu = pd.read_csv(data_path + '{}/Bucklin.txt'.format(percents[i]), names=[0, 1]).iloc[election_no][1] * 100
         accs_bucklin.append(bu)
         avg_accs['Bu'][i] += bu
         
     accs_plurality_veto = []
     for i in range (len(percents)):
-        pv = pd.read_csv(data_path + '{}0/Plurality_Veto.txt'.format(percents[i]), names=[0, 1]).iloc[election_no][1] * 100
+        pv = pd.read_csv(data_path + '{}/Plurality_Veto.txt'.format(percents[i]), names=[0, 1]).iloc[election_no][1] * 100
         accs_plurality_veto.append(pv)
         avg_accs['PV'][i] += pv
         
     accs_veto = []
     for i in range (len(percents)):
-        v = pd.read_csv(data_path + '{}0/Veto.txt'.format(percents[i]), names=[0, 1]).iloc[election_no][1] * 100
+        v = pd.read_csv(data_path + '{}/Veto.txt'.format(percents[i]), names=[0, 1]).iloc[election_no][1] * 100
         accs_veto.append(v)
         avg_accs['V'][i] += v
         
     accs_sum = []
     for i in range (len(percents)):
-        s = pd.read_csv(data_path + '{}0/SUM.txt'.format(percents[i]), names=[0, 1]).iloc[election_no][1] * 100
+        s = pd.read_csv(data_path + '{}/SUM.txt'.format(percents[i]), names=[0, 1]).iloc[election_no][1] * 100
         accs_sum.append(s)
         avg_accs['SUM'][i] += s
         
     accs_mpw = []
     for i in range (len(percents)):
-        mpw = pd.read_csv(data_path + '{}0/MPW.txt'.format(percents[i]), names=[0, 1]).iloc[election_no][1] * 100
+        mpw = pd.read_csv(data_path + '{}/MPW.txt'.format(percents[i]), names=[0, 1]).iloc[election_no][1] * 100
         accs_mpw.append(mpw)
         avg_accs['MPW'][i] += mpw
         
