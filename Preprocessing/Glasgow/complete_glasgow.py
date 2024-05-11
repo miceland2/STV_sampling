@@ -8,16 +8,24 @@ Created on Sat Feb 11 22:41:26 2023
 import math
 import pandas as pd
 import random
+import argparse
 
+
+parser = argparse.ArgumentParser(description='Real Election Sampling')
+
+parser.add_argument('-a', '--num_alts', default=10, type=int,
+                    help='number of alternatives for profile')
+parser.add_argument('-n', '--profile_filename', default='ED-00008-00000021-comma.soi', type=str,
+                    help='filename of preprocessed profile')
+
+args = parser.parse_args()
 
 path = 'preprocessed/'
 
-no = 21
-file = 'ED-00008-000000{}-comma.soi'.format(no)
-    
-num_alts = 10
-df = pd.read_csv(path + file, skiprows=num_alts+2, names=[i for i in range(1, 15)])
+file = args.profile_filename
+num_alts = args.num_alts
 
+df = pd.read_csv(path + file, skiprows=num_alts+2, names=[i for i in range(1, 15)])
 
 data = pd.DataFrame()
     
@@ -29,6 +37,7 @@ for i in range(len(df)):
 data = data.iloc[:, 0: num_alts]
     
 data_new = data.copy()
+data_new.columns = [i for i in range(1, num_alts + 1)]
     
 def next(row, pos):        
     search = list(data_new.iloc[row, :pos])
@@ -69,5 +78,6 @@ for row in range(len(data_new)):
             data_new.iloc[row, col] = alt
         else:
             alts = alts - {data_new.iloc[row, col]}
-                
-data_new.to_csv('{}_complete.csv'.format(file[0:-10]))
+
+data_new -= 1
+data_new.to_csv('{}_complete.csv'.format(file[0:-10]), index=False)
